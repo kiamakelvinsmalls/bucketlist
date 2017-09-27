@@ -1,0 +1,58 @@
+*{
+	margin:0px;
+}
+#container{
+	background-color:blue;
+	width:400px;
+	height:300px;
+	margin:200px auto;
+	border:solid;
+	border-radius:30px;
+
+}
+.labels{
+	color:brown;
+	float:left;
+	margin-left: 20px;
+	width:100px;
+	text-transform:capitalize;
+	text-align: center;
+}
+.inputs{
+	padding-left:5px;
+	margin-left:20px;
+background-color:red;
+
+	
+}
+.submits{
+	text-align:center;
+	padding: 20px;
+	color: brown;
+
+}
+#password{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-decoration:capitalize;
+	
+}
+#username{
+	margin-top:30px;
+	}
+.links{
+	clear: both;	
+	text-align:center;
+}	
+body{
+	background-color: black;
+}
+#name{
+	margin-top: 20px;
+}
+.submits1{
+	float:right;
+}
+#logo{
+	text-align:center;
+}
